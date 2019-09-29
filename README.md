@@ -17,6 +17,7 @@ These ticket can be closed after checking them again:
 | | https://jira.appcelerator.org/browse/TIMOB-12281 | https://docs.appcelerator.com/platform/latest/#!/api/Titanium.UI.WebView-property-enableZoomControls|
 | | https://jira.appcelerator.org/browse/TIMOB-13488| working fine in 8.2.0.GA|
 | | https://jira.appcelerator.org/browse/TIMOB-13880| showing default Android dot|
+| | https://jira.appcelerator.org/browse/TIMOB-13611 | working fine in 8.2.0.GA latest Ti.Map|
 
 
 Feel free to add tickets that you've tested in the current SDK. If you added/changed the test please add them to the actual tickets!
