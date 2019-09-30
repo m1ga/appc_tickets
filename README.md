@@ -18,6 +18,11 @@ These ticket can be closed after checking them again:
 | | https://jira.appcelerator.org/browse/TIMOB-13488| working fine in 8.2.0.GA|
 | | https://jira.appcelerator.org/browse/TIMOB-13880| showing default Android dot|
 | | https://jira.appcelerator.org/browse/TIMOB-13611 | working fine in 8.2.0.GA latest Ti.Map|
-
+| | https://jira.appcelerator.org/browse/TIMOB-13995 | no appc bug (Android behavior); workaround: view with image and onclick event |
+| | https://jira.appcelerator.org/browse/TIMOB-14115 | working fine in 8.2.0.GA latest Ti.Map|
+| | https://jira.appcelerator.org/browse/TIMOB-14429 | folders are created (8.2.0.GA)|
+| | https://jira.appcelerator.org/browse/TIMOB-14634 | working fine in 8.2.0.GA|
+| | https://jira.appcelerator.org/browse/TIMOB-14927 | working fine in 8.2.0.GA HTC A9 (Android 7)|
+| | https://jira.appcelerator.org/browse/TIMOB-15106 | working fine in 8.2.0.GA HTC A9 (Android 7)|
 
 Feel free to add tickets that you've tested in the current SDK. If you added/changed the test please add them to the actual tickets!
